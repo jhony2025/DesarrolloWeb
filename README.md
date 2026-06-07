@@ -20,7 +20,7 @@ El nombre del estudiante (<h3>)
 
     <h1>Desarrollo Web</h1>
     <h2>Sistema básico para aprender estructura HTML</h2>
-    <h3>Desarrollado por Diego Vera</h3>
+    <h3>Desarrollado por Johnny Vera</h3>
 
 </body>
 </html>
