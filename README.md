@@ -25,7 +25,8 @@ El nombre del estudiante (<h3>)
 </body>
 </html>
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/583f0300-46a8-4dbe-984e-08d876684fad" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7ea9680-41dd-490d-93a5-d669b5444d1b" />
+
 
 # Objetivo del proyecto
 
